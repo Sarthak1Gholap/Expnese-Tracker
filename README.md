@@ -35,7 +35,7 @@ This project is a Personal Finance Tracker web application designed to help user
 ## Getting Started
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/your-username/financial-summary-dashboard.git
+    git clone https://github.com/JayPatil9975/Personal_Expense_Tracker.git
     ```
 2. **Install Dependencies**:
     ```bash
